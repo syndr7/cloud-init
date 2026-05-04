@@ -24,7 +24,7 @@ cd <this_folder>
 python3 -m http.server 3003
 ```
 
-At the time of writing, I'm hosting a public instance at '[https://goose-games.com/autoinstall/](https://syndr.dev/cloud-init/ubuntu-server/)'
+At the time of writing, I'm hosting a public instance at '[https://syndr.dev/cloud-init/ubuntu-server/](https://syndr.dev/cloud-init/ubuntu-server/)'
 
 ### Boot Ubuntu Live Server
 
