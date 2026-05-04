@@ -39,7 +39,7 @@ autoinstall:
       sudo: "ALL=(ALL:ALL) ALL"
       hashed_passwd: $6$rounds=500000$T5oDDQ/IhCLBUlT.$yEWG4lGefjD0TWzk5O8ebs08Eiwhr5R8Ur.JC9UGePFJ9DEyiAtepK3HRkMJzCWO8kIxDwwHm7/bplrQr4J0w/
       ssh_import_id:
-        - gh:syndr-flora
+        - gh:syndr7
       shell: /bin/bash
       lock_passwd: false
 
